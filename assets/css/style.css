@@ -10,7 +10,14 @@ body {
 
     list-style-type: none;
     
+    
 }
+
+#story{
+    font-size: large;
+}
+
+
 h1,
 h2 {
     color: darkred;
