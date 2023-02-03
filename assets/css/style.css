@@ -6,6 +6,11 @@ body {
     text-align: center;
 }
 
+#locations {
+
+    list-style-type: none;
+    
+}
 h1,
 h2 {
     color: darkred;
@@ -18,9 +23,9 @@ li {
 }
 
 img {
-    width: 100%;
-    height: auto;
-    max-width: 100%;
+    width: 65%;
+    height: 45%;
+    
 }
 
 main {
@@ -39,7 +44,10 @@ nav ul {
 
 nav li {
     display: inline;
+    
 }
+
+
 
 nav a {
     text-decoration: none;
@@ -53,8 +61,8 @@ nav a:hover {
 }
 
 #banner {
-    width: 100%;
-    height: auto;
+    width: 35%;
+    height: 35%;
     background-color: white;
 }
 
@@ -84,3 +92,4 @@ th {
     border: 1px solid black;
     padding: 5px;
 }
+
