@@ -6,6 +6,20 @@ body {
     text-align: center;
 }
 
+#foodpic{
+    width:550px;
+
+    
+}
+
+#menu{
+    width: 400px;
+}
+
+.logo{
+    width: 70px;
+}
+
 #locations {
 
     list-style-type: none;
@@ -37,6 +51,7 @@ img {
 
 main {
     margin: 0 20%;
+    
 }
 
 nav {
@@ -92,11 +107,13 @@ nav a:hover {
 table {
     border: 3px solid black;
     width: 100%;
-}
+    }
   
 td,
 th {
     border: 1px solid black;
     padding: 5px;
+    width:50%;
+    text-align:center ;
 }
 
